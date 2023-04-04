@@ -6,7 +6,7 @@
 
 # 如何手动安装?
 
-* 从[Latest](https://github.com/medhachaitanya/PureBatteryAddOnSetup/tree/master/Latest) 下载zip压缩包
+* 从[这里](https://github.com/TC999/PureBatteryAnalytics_zh/tree/main/DesktopVersion) 下载zip压缩包
 * 解压缩
   * 双击“Pure Battery - System Tray Add-On.exe”直接使用
 * 您将会看到该程序在任务栏中运行。
