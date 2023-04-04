@@ -17,6 +17,7 @@
 你可以从 [微软商店](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3?activetab=pivot:overviewtab)下载英文原版
 
 # 应用截图
+<img width="390" alt="screenshot" src="https://user-images.githubusercontent.com/88823709/229676103-081967ae-d14b-4bc2-8f22-0ca8795fdf9b.PNG">
 
 
 # 注释
